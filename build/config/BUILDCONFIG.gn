@@ -114,6 +114,8 @@ declare_args() {
   # Component build.
   is_component_build = false
 
+  nwjs_sdk = true
+
   # Debug build.
   is_debug = true
 

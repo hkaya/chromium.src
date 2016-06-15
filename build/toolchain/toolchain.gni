@@ -28,7 +28,7 @@ declare_args() {
 # TODO(agrieve): GYP sets this to "lib" for Linux & Android, but this won't work
 #     in GN until support for loadable_module() is added.
 #     See: https://codereview.chromium.org/1236503002/
-shlib_subdir = "."
+shlib_subdir = "lib"
 
 # Root out dir for shared library files.
 root_shlib_dir = root_out_dir
