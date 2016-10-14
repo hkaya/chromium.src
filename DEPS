@@ -18,7 +18,7 @@ vars = {
   'freetype_android_revision':
     'a512b0fe7a8d9db0e5aa9c0a4db1e92cb861722d',
   'nwjs_git':
-    'https://github.com/nwjs',
+    'https://github.com/hkaya',
   'google_toolbox_for_mac_revision':
     '401878398253074c515c03cb3a3f8bb0cc8da6e9',
   'googlecode_url':
